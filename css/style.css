@@ -1,0 +1,127 @@
+.navigation-block {
+    height: 180px;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    
+}
+.logo {
+    color: #FFFFFF;
+}
+.nav-li {
+    display: flex;
+    justify-content: space-between;
+
+}
+.li-link {
+    margin-right: 20px;
+    color: #FFFFFF;
+
+}
+.burger-bar {
+    display: none;
+    
+
+}
+.bg-image1 {
+    width: 100%;
+    height: 100%px;
+    background-image: url('../images/backgroundimg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-wrap: wrap;
+}
+.about-us {
+   padding: 40px;
+}
+.about-us1 {
+    font-size: 30px;
+    color: #FFFFFF;
+    
+}
+.about-us2 {
+    font-size: 10px;
+    color: #FFFFFF;
+    margin-top: 10px;
+
+}
+/* container-1 */
+.container-1 {
+    max-width: 1366px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left-block {
+    width: 444px;
+    h
+}
+
+/* container-2 */
+
+.container-2 {
+    max-width: 1366px;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+.title-box {
+    padding-left: 59px;
+}
+.title-box-text1 {
+    font-size: 14px;
+    color: blue;
+}
+.title-box-text2{
+    font-size: 42px;
+    color: #FFFFFF;
+    margin-bottom: 38px;
+}
+.container2-blocks {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+      
+
+}
+.bg-image2 {
+    width: 100%;
+    height: 100%px;
+    background-image: url('../images/backgroundimg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-wrap: wrap;
+}
+
+.box {
+
+    max-width: 260px;
+    width: 100%;
+    height: 260px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #FFFFFF;
+    margin-bottom: 90px;
+}
+.img-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #5863F8;
+    width: 59px;
+    height: 58px;
+    border-radius: 30%;
+    margin-top: 65px;
+}
+
+.text-block {
+    font-size: 14px;
+}
+
+.text-title {
+    margin-top: 18px;
+    margin-bottom: 24px;
+}
