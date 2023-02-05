@@ -15,3 +15,12 @@
         margin-bottom: 25px;
     }
 }
+@media (min-width: 320px) and (max-width:768px){
+    .container-1 {
+        flex-direction: column;
+    }
+    .right-block {
+        flex-direction: column;
+    }
+}
+
